@@ -1,0 +1,15 @@
+(1) *Good deals that are offered scroll/transition on this bar
+	*Locate on google maps
+	*Slogan
+    *Subscribe to website [right side]
+	*Shopping cart
+	*Social media platforms
+(2) *Logo
+	*Logo with menu
+    *Subscribe to website [right side]
+	*Shopping cart
+	*Social media platforms
+(3) *menu w/ search bar.neverLeft
+	*Search bar w/ social media platforms
+(4)*Description of product[left] with a picture[right] and arrows
+	*Social Media platforms [very top]
